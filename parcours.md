@@ -20,16 +20,19 @@ Bac STI2D, Lycée Jean-Baptiste Delambre Amiens
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024` **Projet d’étude – Projet fin d'année **
 
-_Réalisé en équipe de XX étudiants_
+_Réalisé en équipe de 6 étudiants_
+Faire un stand avec un recyclage d'air automatique pour un stand des JO 2024
+
+`depuis 2020`
 Babysitting
-Depuis juillet 2020 Amis et Famille Amiens
+Amis et Famille 
 Garde d'enfants
 Aide aux devoirs 
 
 Stage dans le service informatique des impôts
-De juillet 2020 à août 2020 Centre des Impôts Nantes
+`De juillet 2020 à août 2020` Centre des Impôts Nantes
 
 
 `2024` **Association Bureau des sport Unilasalle Amiens,Secrétaire**
