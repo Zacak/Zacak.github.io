@@ -20,7 +20,7 @@ Bac STI2D, Lycée Jean-Baptiste Delambre Amiens
 
 ## Expériences
 
-`2024` **Projet d’étude – Projet fin d'année **
+`2024` Projet d’étude – Projet fin d'année 
 
 _Réalisé en équipe de 6 étudiants_
 Faire un stand avec un recyclage d'air automatique pour un stand des JO 2024
