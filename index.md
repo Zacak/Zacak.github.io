@@ -14,9 +14,8 @@ Elève ingénieur en énergie et numérique
 
 Disponible 1 mois à partir du 15 juin
 
-(mailto:zacharie.akrimi@etu.unilasalle.fr)
+mail:zacharie.akrimi@etu.unilasalle.fr
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
 Permis B, voiture
 
