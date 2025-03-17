@@ -9,12 +9,12 @@ hero_image_ratio: is-1by1
 ---
 
 # Zacharie AKRIMI
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en énergie et numérique
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir du 15 juin
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+(mailto:zacharie.akrimi@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
