@@ -8,60 +8,53 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**Unilasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en École d'ingénieurs
+* Cours : Programmation/électrocinétique/Mathématiques
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac STI2D, Lycée Jean-Baptiste Delambre Amiens
 
 ## Expériences
 
 `20XX` **Projet d’étude – préciser le thème du projet**
 
 _Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+Babysitting
+Depuis juillet 2020 Amis et Famille Amiens
+Garde d'enfants
+Aide aux devoirs 
+
+Stage dans le service informatique des impôts
+De juillet 2020 à août 2020 Centre des Impôts Nantes
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2024` **Association Bureau des sport Unilasalle Amiens,Secrétaire**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais :(Toeic:694)
+* LV2 Espagnol :Débutant
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
-
-Autres
-* Autres diplômes ou permis spéciaux
+* Microsoft Office
+* Modélisation 3d
+* Codage en language C 
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
-
-Loisirs 1
-* Description 
-* Description 
+Cuisine
+Handball
+1 an en club, tournois et compétitions
+Tennis
+2 ans en club, tournois et compétitions
+Football
+5 ans en club, tournois et compétitions
+Escrime
+2 ans en club, tournois et compétitions
